@@ -1,0 +1,42 @@
+      <style type="text/css" media="screen">
+        .gr_grid_container {
+          /* customize grid container div here. eg: width: 500px; */
+        }
+
+        .gr_grid_book_container {
+          /* customize book cover container div here */
+          float: left;
+          width: 39px;
+          height: 60px;
+          padding: 0px 0px;
+          overflow: hidden;
+        }
+      </style>
+      <div id="gr_grid_widget_1651297801">
+        <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
+          <div class="gr_grid_container">
+    <div class="gr_grid_book_container"><a title="All Systems Red (The Murderbot Diaries, #1)" rel="nofollow" href="https://www.goodreads.com/book/show/32758901-all-systems-red"><img alt="All Systems Red" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631585309l/32758901._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Artificial Condition (The Murderbot Diaries, #2)" rel="nofollow" href="https://www.goodreads.com/book/show/36223860-artificial-condition"><img alt="Artificial Condition" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505590203l/36223860._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Rogue Protocol (The Murderbot Diaries, #3)" rel="nofollow" href="https://www.goodreads.com/book/show/35519101-rogue-protocol"><img alt="Rogue Protocol" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506001607l/35519101._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Exit Strategy (The Murderbot Diaries, #4)" rel="nofollow" href="https://www.goodreads.com/book/show/35519109-exit-strategy"><img alt="Exit Strategy" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518642623l/35519109._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Network Effect (The Murderbot Diaries, #5)" rel="nofollow" href="https://www.goodreads.com/book/show/52381770-network-effect"><img alt="Network Effect" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640597293l/52381770._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Fugitive Telemetry (The Murderbot Diaries, #6)" rel="nofollow" href="https://www.goodreads.com/book/show/53205854-fugitive-telemetry"><img alt="Fugitive Telemetry" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589475583l/53205854._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Uprooted" rel="nofollow" href="https://www.goodreads.com/book/show/22544764-uprooted"><img alt="Uprooted" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550135418l/22544764._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Down Among the Sticks and Bones (Wayward Children, #2)" rel="nofollow" href="https://www.goodreads.com/book/show/31450908-down-among-the-sticks-and-bones"><img alt="Down Among the Sticks and Bones" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473685781l/31450908._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Harry Potter and the Sorcerer's Stone (Harry Potter, #1)" rel="nofollow" href="https://www.goodreads.com/book/show/42844155-harry-potter-and-the-sorcerer-s-stone"><img alt="Harry Potter and the Sorcerer's Stone" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598823299l/42844155._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Harry Potter and the Chamber of Secrets (Harry Potter, #2)" rel="nofollow" href="https://www.goodreads.com/book/show/28141183-harry-potter-and-the-chamber-of-secrets"><img alt="Harry Potter and the Chamber of Secrets" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598823199l/28141183._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)" rel="nofollow" href="https://www.goodreads.com/book/show/28143415-harry-potter-and-the-prisoner-of-azkaban"><img alt="Harry Potter and the Prisoner of Azkaban" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598823559l/28143415._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Harry Potter and the Goblet of Fire (Harry Potter, #4)" rel="nofollow" href="https://www.goodreads.com/book/show/28137887-harry-potter-and-the-goblet-of-fire"><img alt="Harry Potter and the Goblet of Fire" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492616888l/28137887._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Harry Potter and the Order of the Phoenix (Harry Potter, #5)" rel="nofollow" href="https://www.goodreads.com/book/show/29411529-harry-potter-and-the-order-of-the-phoenix"><img alt="Harry Potter and the Order of the Phoenix" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457035165l/29411529._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Harry Potter and the Half-Blood Prince (Harry Potter, #6)" rel="nofollow" href="https://www.goodreads.com/book/show/28767931-harry-potter-and-the-half-blood-prince"><img alt="Harry Potter and the Half-Blood Prince" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453889268l/28767931._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Harry Potter and the Deathly Hallows (Harry Potter, #7)" rel="nofollow" href="https://www.goodreads.com/book/show/28143118-harry-potter-and-the-deathly-hallows"><img alt="Harry Potter and the Deathly Hallows" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449590443l/28143118._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Mountain Man (Mountain Man #1)" rel="nofollow" href="https://www.goodreads.com/book/show/13254665-mountain-man"><img alt="Mountain Man" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327822484l/13254665._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Safari (Mountain Man #2)" rel="nofollow" href="https://www.goodreads.com/book/show/13648624-safari"><img alt="Safari" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340499838l/13648624._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Hellifax (Mountain Man #3)" rel="nofollow" href="https://www.goodreads.com/book/show/17188359-hellifax"><img alt="Hellifax" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356778976l/17188359._SX50_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Well Fed (Mountain Man #4)" rel="nofollow" href="https://www.goodreads.com/book/show/23600553-well-fed"><img alt="Well Fed" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425671392l/23600553._SY75_.jpg" /></a></div>
+    <div class="gr_grid_book_container"><a title="Loveless" rel="nofollow" href="https://www.goodreads.com/book/show/42115981-loveless"><img alt="Loveless" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590592497l/42115981._SY75_.jpg" /></a></div>
+  <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with e, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
+  </div>
+
+      </div>
+      <script src="https://www.goodreads.com/review/grid_widget/18327000.e's%202022-read%20book%20montage?cover_size=small&hide_link=true&hide_title=true&num_books=20&order=a&shelf=2022-read&sort=date_added&widget_id=1651297801" type="text/javascript" charset="utf-8"></script>
